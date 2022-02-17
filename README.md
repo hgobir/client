@@ -1,3 +1,13 @@
+# client
+
+makes up 1/3 of stock application
+
+client module acts as UI that displays price action and volume from server module
+
+must be run before both server and stock-modulation modules
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
