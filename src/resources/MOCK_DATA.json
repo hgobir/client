@@ -1,0 +1,902 @@
+[
+  {
+    "companyId": 1,
+    "name": "Citigroup",
+    "description": "description 1",
+    "sector": "sector 1",
+    "ceo": "ceo 1",
+    "address": "address 1",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 1,
+      "currentValue": 357.1639235522154,
+      "currentVolume": 553003747,
+      "gains": 357.1639235522154,
+      "open": 0,
+      "close": 0,
+      "symbol": "C"
+    }
+  },
+  {
+    "companyId": 2,
+    "name": "Hong Kong and Shanghai Banking Corporation",
+    "description": "description 2",
+    "sector": "sector 2",
+    "ceo": "ceo 2",
+    "address": "address 2",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 2,
+      "currentValue": 419.25098382375955,
+      "currentVolume": 146848748,
+      "gains": 419.25098382375955,
+      "open": 0,
+      "close": 0,
+      "symbol": "HSBC"
+    }
+  },
+  {
+    "companyId": 3,
+    "name": "Credit Suisse",
+    "description": "description 3",
+    "sector": "sector 3",
+    "ceo": "ceo 3",
+    "address": "address 3",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 3,
+      "currentValue": 64.25668638700182,
+      "currentVolume": 835527381,
+      "gains": 64.25668638700182,
+      "open": 0,
+      "close": 0,
+      "symbol": "CS"
+    }
+  },
+  {
+    "companyId": 4,
+    "name": "Royal Bank of Scotland",
+    "description": "description 4",
+    "sector": "sector 4",
+    "ceo": "ceo 4",
+    "address": "address 4",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 4,
+      "currentValue": 282.9559772543784,
+      "currentVolume": 804793847,
+      "gains": 282.9559772543784,
+      "open": 0,
+      "close": 0,
+      "symbol": "RBS"
+    }
+  },
+  {
+    "companyId": 5,
+    "name": "Calyon",
+    "description": "description 5",
+    "sector": "sector 5",
+    "ceo": "ceo 5",
+    "address": "address 5",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 5,
+      "currentValue": 202.69610177918125,
+      "currentVolume": 947211379,
+      "gains": 202.69610177918125,
+      "open": 0,
+      "close": 0,
+      "symbol": "CL"
+    }
+  },
+  {
+    "companyId": 6,
+    "name": "Threadneedle",
+    "description": "description 6",
+    "sector": "sector 6",
+    "ceo": "ceo 6",
+    "address": "address 6",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 6,
+      "currentValue": 417.90399272128457,
+      "currentVolume": 540981701,
+      "gains": 417.90399272128457,
+      "open": 0,
+      "close": 0,
+      "symbol": "TN"
+    }
+  },
+  {
+    "companyId": 7,
+    "name": "Aviva",
+    "description": "description 7",
+    "sector": "sector 7",
+    "ceo": "ceo 7",
+    "address": "address 7",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 7,
+      "currentValue": 507.25999421516644,
+      "currentVolume": 457732554,
+      "gains": 507.25999421516644,
+      "open": 0,
+      "close": 0,
+      "symbol": "AV"
+    }
+  },
+  {
+    "companyId": 8,
+    "name": "Morgan Stanley",
+    "description": "description 8",
+    "sector": "sector 8",
+    "ceo": "ceo 8",
+    "address": "address 8",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 8,
+      "currentValue": 344.720564516456,
+      "currentVolume": 291969060,
+      "gains": 344.720564516456,
+      "open": 0,
+      "close": 0,
+      "symbol": "MS"
+    }
+  },
+  {
+    "companyId": 9,
+    "name": "Unicredit",
+    "description": "description 9",
+    "sector": "sector 9",
+    "ceo": "ceo 9",
+    "address": "address 9",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 9,
+      "currentValue": 404.3248404286237,
+      "currentVolume": 445576052,
+      "gains": 404.3248404286237,
+      "open": 0,
+      "close": 0,
+      "symbol": "L"
+    }
+  },
+  {
+    "companyId": 10,
+    "name": "Caplin",
+    "description": "description 10",
+    "sector": "sector 10",
+    "ceo": "ceo 10",
+    "address": "address 10",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 10,
+      "currentValue": 214.63321755862452,
+      "currentVolume": 437597623,
+      "gains": 214.63321755862452,
+      "open": 0,
+      "close": 0,
+      "symbol": "CAP"
+    }
+  },
+  {
+    "companyId": 11,
+    "name": "Catlin",
+    "description": "description 11",
+    "sector": "sector 11",
+    "ceo": "ceo 11",
+    "address": "address 11",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 11,
+      "currentValue": 322.5425468907123,
+      "currentVolume": 487658463,
+      "gains": 322.5425468907123,
+      "open": 0,
+      "close": 0,
+      "symbol": "CLNGF"
+    }
+  },
+  {
+    "companyId": 12,
+    "name": "Rabobank",
+    "description": "description 12",
+    "sector": "sector 12",
+    "ceo": "ceo 12",
+    "address": "address 12",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 12,
+      "currentValue": 459.3650493478673,
+      "currentVolume": 757049138,
+      "gains": 459.3650493478673,
+      "open": 0,
+      "close": 0,
+      "symbol": "RABO"
+    }
+  },
+  {
+    "companyId": 13,
+    "name": "Banque Nationale de Paris",
+    "description": "description 13",
+    "sector": "sector 13",
+    "ceo": "ceo 13",
+    "address": "address 13",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 13,
+      "currentValue": 436.02669230940603,
+      "currentVolume": 174622564,
+      "gains": 436.02669230940603,
+      "open": 0,
+      "close": 0,
+      "symbol": "BNP"
+    }
+  },
+  {
+    "companyId": 14,
+    "name": "Wildnet",
+    "description": "description 14",
+    "sector": "sector 14",
+    "ceo": "ceo 14",
+    "address": "address 14",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 14,
+      "currentValue": 214.35181652865114,
+      "currentVolume": 52263259,
+      "gains": 214.35181652865114,
+      "open": 0,
+      "close": 0,
+      "symbol": "WN"
+    }
+  },
+  {
+    "companyId": 15,
+    "name": "QBE Insurance Group Limited",
+    "description": "description 15",
+    "sector": "sector 15",
+    "ceo": "ceo 15",
+    "address": "address 15",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 15,
+      "currentValue": 137.60924568807528,
+      "currentVolume": 954756696,
+      "gains": 137.60924568807528,
+      "open": 0,
+      "close": 0,
+      "symbol": "QBE"
+    }
+  },
+  {
+    "companyId": 16,
+    "name": "Financial Times",
+    "description": "description 16",
+    "sector": "sector 16",
+    "ceo": "ceo 16",
+    "address": "address 16",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 16,
+      "currentValue": 79.71771804683428,
+      "currentVolume": 658243948,
+      "gains": 79.71771804683428,
+      "open": 0,
+      "close": 0,
+      "symbol": "FT"
+    }
+  },
+  {
+    "companyId": 17,
+    "name": "News International",
+    "description": "description 17",
+    "sector": "sector 17",
+    "ceo": "ceo 17",
+    "address": "address 17",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 17,
+      "currentValue": 407.79982070356715,
+      "currentVolume": 299327554,
+      "gains": 407.79982070356715,
+      "open": 0,
+      "close": 0,
+      "symbol": "NI"
+    }
+  },
+  {
+    "companyId": 18,
+    "name": "Abbey Santander",
+    "description": "description 18",
+    "sector": "sector 18",
+    "ceo": "ceo 18",
+    "address": "address 18",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 18,
+      "currentValue": 495.65314024326466,
+      "currentVolume": 206819968,
+      "gains": 495.65314024326466,
+      "open": 0,
+      "close": 0,
+      "symbol": "AS"
+    }
+  },
+  {
+    "companyId": 19,
+    "name": "Dresdner/ Commerz",
+    "description": "description 19",
+    "sector": "sector 19",
+    "ceo": "ceo 19",
+    "address": "address 19",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 19,
+      "currentValue": 162.23388671442518,
+      "currentVolume": 321008782,
+      "gains": 162.23388671442518,
+      "open": 0,
+      "close": 0,
+      "symbol": "DC"
+    }
+  },
+  {
+    "companyId": 20,
+    "name": "JP Morgan",
+    "description": "description 20",
+    "sector": "sector 20",
+    "ceo": "ceo 20",
+    "address": "address 20",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 20,
+      "currentValue": 507.0949959691637,
+      "currentVolume": 256122084,
+      "gains": 507.0949959691637,
+      "open": 0,
+      "close": 0,
+      "symbol": "JPM"
+    }
+  },
+  {
+    "companyId": 21,
+    "name": "Lloyds of London",
+    "description": "description 21",
+    "sector": "sector 21",
+    "ceo": "ceo 21",
+    "address": "address 21",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 21,
+      "currentValue": 354.01465013750527,
+      "currentVolume": 283114914,
+      "gains": 354.01465013750527,
+      "open": 0,
+      "close": 0,
+      "symbol": "LL"
+    }
+  },
+  {
+    "companyId": 22,
+    "name": "Halifax and Bank of Scotland",
+    "description": "description 22",
+    "sector": "sector 22",
+    "ceo": "ceo 22",
+    "address": "address 22",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 22,
+      "currentValue": 122.94457209165547,
+      "currentVolume": 214990943,
+      "gains": 122.94457209165547,
+      "open": 0,
+      "close": 0,
+      "symbol": "HBOS"
+    }
+  },
+  {
+    "companyId": 23,
+    "name": "Nomura",
+    "description": "description 23",
+    "sector": "sector 23",
+    "ceo": "ceo 23",
+    "address": "address 23",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 23,
+      "currentValue": 182.69866276145055,
+      "currentVolume": 377703607,
+      "gains": 182.69866276145055,
+      "open": 0,
+      "close": 0,
+      "symbol": "N"
+    }
+  },
+  {
+    "companyId": 24,
+    "name": "Internationale Nederlanden Groep",
+    "description": "description 24",
+    "sector": "sector 24",
+    "ceo": "ceo 24",
+    "address": "address 24",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 24,
+      "currentValue": 490.4448479879874,
+      "currentVolume": 756194496,
+      "gains": 490.4448479879874,
+      "open": 0,
+      "close": 0,
+      "symbol": "ING"
+    }
+  },
+  {
+    "companyId": 25,
+    "name": "Bank of New York",
+    "description": "description 25",
+    "sector": "sector 25",
+    "ceo": "ceo 25",
+    "address": "address 25",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 25,
+      "currentValue": 377.20428665002294,
+      "currentVolume": 676000432,
+      "gains": 377.20428665002294,
+      "open": 0,
+      "close": 0,
+      "symbol": "BNY"
+    }
+  },
+  {
+    "companyId": 26,
+    "name": "Société Générale",
+    "description": "description 26",
+    "sector": "sector 26",
+    "ceo": "ceo 26",
+    "address": "address 26",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 26,
+      "currentValue": 158.53879767802684,
+      "currentVolume": 655019269,
+      "gains": 158.53879767802684,
+      "open": 0,
+      "close": 0,
+      "symbol": "SG"
+    }
+  },
+  {
+    "companyId": 27,
+    "name": "London Clearing House",
+    "description": "description 27",
+    "sector": "sector 27",
+    "ceo": "ceo 27",
+    "address": "address 27",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 27,
+      "currentValue": 293.8956633773989,
+      "currentVolume": 645787529,
+      "gains": 293.8956633773989,
+      "open": 0,
+      "close": 0,
+      "symbol": "LCH"
+    }
+  },
+  {
+    "companyId": 28,
+    "name": "Daiwa",
+    "description": "description 28",
+    "sector": "sector 28",
+    "ceo": "ceo 28",
+    "address": "address 28",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 28,
+      "currentValue": 510.02200950288,
+      "currentVolume": 719497760,
+      "gains": 510.02200950288,
+      "open": 0,
+      "close": 0,
+      "symbol": "DA"
+    }
+  },
+  {
+    "companyId": 29,
+    "name": "Rothschild",
+    "description": "description 29",
+    "sector": "sector 29",
+    "ceo": "ceo 29",
+    "address": "address 29",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 29,
+      "currentValue": 247.63705085283502,
+      "currentVolume": 331056054,
+      "gains": 247.63705085283502,
+      "open": 0,
+      "close": 0,
+      "symbol": "RCD"
+    }
+  },
+  {
+    "companyId": 30,
+    "name": "Fortis",
+    "description": "description 30",
+    "sector": "sector 30",
+    "ceo": "ceo 30",
+    "address": "address 30",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 30,
+      "currentValue": 401.5169333694892,
+      "currentVolume": 50880083,
+      "gains": 401.5169333694892,
+      "open": 0,
+      "close": 0,
+      "symbol": "FO"
+    }
+  },
+  {
+    "companyId": 31,
+    "name": "Brewin Dolphin",
+    "description": "description 31",
+    "sector": "sector 31",
+    "ceo": "ceo 31",
+    "address": "address 31",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 31,
+      "currentValue": 462.7058794348548,
+      "currentVolume": 686910337,
+      "gains": 462.7058794348548,
+      "open": 0,
+      "close": 0,
+      "symbol": "BD"
+    }
+  },
+  {
+    "companyId": 32,
+    "name": "Schroders",
+    "description": "description 32",
+    "sector": "sector 32",
+    "ceo": "ceo 32",
+    "address": "address 32",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 32,
+      "currentValue": 7.9819168209408256,
+      "currentVolume": 143422823,
+      "gains": 7.9819168209408256,
+      "open": 0,
+      "close": 0,
+      "symbol": "SC"
+    }
+  },
+  {
+    "companyId": 33,
+    "name": "State Street Bank",
+    "description": "description 33",
+    "sector": "sector 33",
+    "ceo": "ceo 33",
+    "address": "address 33",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 33,
+      "currentValue": 287.90898690823826,
+      "currentVolume": 572002572,
+      "gains": 287.90898690823826,
+      "open": 0,
+      "close": 0,
+      "symbol": "SSB"
+    }
+  },
+  {
+    "companyId": 34,
+    "name": "Bank of Tokyo",
+    "description": "description 34",
+    "sector": "sector 34",
+    "ceo": "ceo 34",
+    "address": "address 34",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 34,
+      "currentValue": 351.54239762302785,
+      "currentVolume": 498524072,
+      "gains": 351.54239762302785,
+      "open": 0,
+      "close": 0,
+      "symbol": "BTO"
+    }
+  },
+  {
+    "companyId": 35,
+    "name": "London Stock Exchange",
+    "description": "description 35",
+    "sector": "sector 35",
+    "ceo": "ceo 35",
+    "address": "address 35",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 35,
+      "currentValue": 501.6530411348869,
+      "currentVolume": 602860507,
+      "gains": 501.6530411348869,
+      "open": 0,
+      "close": 0,
+      "symbol": "LSE"
+    }
+  },
+  {
+    "companyId": 36,
+    "name": "Bank Of America",
+    "description": "description 36",
+    "sector": "sector 36",
+    "ceo": "ceo 36",
+    "address": "address 36",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 36,
+      "currentValue": 106.61068508957055,
+      "currentVolume": 374380613,
+      "gains": 106.61068508957055,
+      "open": 0,
+      "close": 0,
+      "symbol": "BOA"
+    }
+  },
+  {
+    "companyId": 37,
+    "name": "Tullet Prebon",
+    "description": "description 37",
+    "sector": "sector 37",
+    "ceo": "ceo 37",
+    "address": "address 37",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 37,
+      "currentValue": 26.108074470176977,
+      "currentVolume": 44138114,
+      "gains": 26.108074470176977,
+      "open": 0,
+      "close": 0,
+      "symbol": "TP"
+    }
+  },
+  {
+    "companyId": 38,
+    "name": "New Edge",
+    "description": "description 38",
+    "sector": "sector 38",
+    "ceo": "ceo 38",
+    "address": "address 38",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 38,
+      "currentValue": 267.39952191832754,
+      "currentVolume": 346507720,
+      "gains": 267.39952191832754,
+      "open": 0,
+      "close": 0,
+      "symbol": "NE"
+    }
+  },
+  {
+    "companyId": 39,
+    "name": "Fitch",
+    "description": "description 39",
+    "sector": "sector 39",
+    "ceo": "ceo 39",
+    "address": "address 39",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 39,
+      "currentValue": 399.72955559015236,
+      "currentVolume": 891432837,
+      "gains": 399.72955559015236,
+      "open": 0,
+      "close": 0,
+      "symbol": "FH"
+    }
+  },
+  {
+    "companyId": 40,
+    "name": "Thomson Reuters",
+    "description": "description 40",
+    "sector": "sector 40",
+    "ceo": "ceo 40",
+    "address": "address 40",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 40,
+      "currentValue": 332.13445307631315,
+      "currentVolume": 852073025,
+      "gains": 332.13445307631315,
+      "open": 0,
+      "close": 0,
+      "symbol": "TR"
+    }
+  },
+  {
+    "companyId": 41,
+    "name": "Chubb Insurance",
+    "description": "description 41",
+    "sector": "sector 41",
+    "ceo": "ceo 41",
+    "address": "address 41",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 41,
+      "currentValue": 455.05843397718235,
+      "currentVolume": 573877195,
+      "gains": 455.05843397718235,
+      "open": 0,
+      "close": 0,
+      "symbol": "CI"
+    }
+  },
+  {
+    "companyId": 42,
+    "name": "Tri Systems",
+    "description": "description 42",
+    "sector": "sector 42",
+    "ceo": "ceo 42",
+    "address": "address 42",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 42,
+      "currentValue": 471.94131333494016,
+      "currentVolume": 217812710,
+      "gains": 471.94131333494016,
+      "open": 0,
+      "close": 0,
+      "symbol": "TS"
+    }
+  },
+  {
+    "companyId": 43,
+    "name": "Westfälische Telefon-Gesellschaft",
+    "description": "description 43",
+    "sector": "sector 43",
+    "ceo": "ceo 43",
+    "address": "address 43",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 43,
+      "currentValue": 256.01477192719574,
+      "currentVolume": 560078285,
+      "gains": 256.01477192719574,
+      "open": 0,
+      "close": 0,
+      "symbol": "WTG"
+    }
+  },
+  {
+    "companyId": 44,
+    "name": "Ernst & Young Global Limited",
+    "description": "description 44",
+    "sector": "sector 44",
+    "ceo": "ceo 44",
+    "address": "address 44",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 44,
+      "currentValue": 128.10903619997615,
+      "currentVolume": 770837614,
+      "gains": 128.10903619997615,
+      "open": 0,
+      "close": 0,
+      "symbol": "EY"
+    }
+  },
+  {
+    "companyId": 45,
+    "name": "Ace Europe",
+    "description": "description 45",
+    "sector": "sector 45",
+    "ceo": "ceo 45",
+    "address": "address 45",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 45,
+      "currentValue": 15.59342540581588,
+      "currentVolume": 730398319,
+      "gains": 15.59342540581588,
+      "open": 0,
+      "close": 0,
+      "symbol": "AE"
+    }
+  },
+  {
+    "companyId": 46,
+    "name": "Beazily",
+    "description": "description 46",
+    "sector": "sector 46",
+    "ceo": "ceo 46",
+    "address": "address 46",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 46,
+      "currentValue": 79.19442363415314,
+      "currentVolume": 401327638,
+      "gains": 79.19442363415314,
+      "open": 0,
+      "close": 0,
+      "symbol": "BY"
+    }
+  },
+  {
+    "companyId": 47,
+    "name": "Sun",
+    "description": "description 47",
+    "sector": "sector 47",
+    "ceo": "ceo 47",
+    "address": "address 47",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 47,
+      "currentValue": 153.74541794741623,
+      "currentVolume": 426861059,
+      "gains": 153.74541794741623,
+      "open": 0,
+      "close": 0,
+      "symbol": "JAVA"
+    }
+  },
+  {
+    "companyId": 48,
+    "name": "Therion Systems",
+    "description": "description 48",
+    "sector": "sector 48",
+    "ceo": "ceo 48",
+    "address": "address 48",
+    "valuation": 1000000,
+    "stock": {
+      "stockId": 48,
+      "currentValue": 429.2760632657918,
+      "currentVolume": 63250425,
+      "gains": 429.2760632657918,
+      "open": 0,
+      "close": 0,
+      "symbol": "THSY"
+    }
+  },
+  {
+    "companyId": 49,
+    "name": "FDM Group",
+    "description": "Crappy IT Company",
+    "sector": "IT",
+    "ceo": "Rod Flavell",
+    "address": "London Bridge",
+    "valuation": 999999999,
+    "stock": {
+      "stockId": 49,
+      "currentValue": 32.04872333242329,
+      "currentVolume": 863524447,
+      "gains": 32.04872333242329,
+      "open": 0,
+      "close": 0,
+      "symbol": "RAN"
+    }
+  },
+  {
+    "companyId": 50,
+    "name": "Dangote",
+    "description": "Cement",
+    "sector": "Construction",
+    "ceo": "Aliko Dangote",
+    "address": "Kano",
+    "valuation": 100000000,
+    "stock": {
+      "stockId": 50,
+      "currentValue": 200.977359989145,
+      "currentVolume": 848924216,
+      "gains": 200.977359989145,
+      "open": 0,
+      "close": 0,
+      "symbol": "FUC"
+    }
+  }
+]
