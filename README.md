@@ -4,7 +4,7 @@ makes up 1/3 of stock application
 
 client module acts as UI that displays price action and volume from server module
 
-must be run before both server and stock-modulation modules
+must be run after both server and stock-modulation modules
 
 
 
